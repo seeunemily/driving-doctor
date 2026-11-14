@@ -1,0 +1,3 @@
+# 시작과 화면 전환에 쓰는 앱 코드를 설치 직후 미리 컴파일하도록 알려 준다(Baseline Profile).
+HSPLapp/drivingdoctor/**;->**(**)**
+Lapp/drivingdoctor/**;
